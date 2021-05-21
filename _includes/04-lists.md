@@ -1,2 +1,2 @@
-- [x] cat
-- [x] dog
+* Dog
+* Cat
